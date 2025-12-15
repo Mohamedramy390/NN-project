@@ -1,7 +1,6 @@
 # Project Report: Deep Learning Based Intrusion Detection System
 
 ## 1. Methodology / System Design
-**(2 Points)**
 
 The proposed system utilizes a **Hybrid Deep Learning Architecture** designed to detect cybersecurity threats in network traffic. The design philosophy moves beyond traditional signature-based detection or single-packet analysis, instead focusing on **sequence-based anomaly detection** using supervised learning.
 
@@ -20,7 +19,6 @@ The core model combines two powerful neural network architectures:
 ---
 
 ## 2. Implementation & Technical Quality
-**(2 Points)**
 
 The project is implemented in **Python** using **TensorFlow/Keras**, adhering to modern coding standards and best practices for machine learning engineering.
 
@@ -39,7 +37,6 @@ The project is implemented in **Python** using **TensorFlow/Keras**, adhering to
 ---
 
 ## 3. Results & Evaluation
-**(2 Points)**
 
 The system employs a comprehensive testing strategy to validate performance, using a dedicated hold-out testing set that is processed identically to the training data.
 
@@ -58,7 +55,6 @@ The implementation generates two key visualizations to aid interpretation:
 ---
 
 ## 4. Innovation / Complexity
-**(2 Points)**
 
 The project demonstrates complexity and innovation beyond standard implementations through its architectural choices and data handling.
 
